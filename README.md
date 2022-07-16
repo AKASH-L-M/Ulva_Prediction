@@ -1,5 +1,6 @@
 # Ulva_Prediction
-Problem Statement
+
+**Problem Statement**
 
 	
 	
@@ -24,4 +25,4 @@ Condition 3. What happens when if we replace combining Urea and DAP? (asper the 
 
 
 <br><br>
-Solution in PDF Report
+**Solution in PDF Report**
